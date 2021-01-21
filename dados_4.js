@@ -1,0 +1,1 @@
+// variavel que não muda é uma constante e para criar constantes a gente usa o const no lugar de let ou var
